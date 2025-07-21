@@ -20,7 +20,7 @@
 		"strength": 13,
 		"cost": 45,
 		"requiredTech": "Sailing",
-		"uniques": ["Cannot enter ocean tiles"],,
+		"uniques": ["Cannot enter ocean tiles"],
 		"obsoleteTech": "Astronomy",
 		"attackSound": "nonmetalhit"
 	}, //Same thing with these
